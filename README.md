@@ -1,21 +1,5 @@
 # qb-inventory
 
-# Key Features
-
-* ALL IMAGES FOLLOW THE SAME DIMENSIONS
-* Easy Photoshop guideline template for creating custom images within qb-inventory
-* Custom brand logo above option buttons
-* Options menu
-* Help box 
-* Custom inventory images (more always being added in each new update)
-* Default weight icon easily changeable with Font Awesome icons
-* Hotkey numbers visible in inventory and hotbar slots
-* Weight progress bar
-* Tooltip has a determined height (so it won't ever go higher than visible or cut off)
-* Text overflow ellipsis used (so your product titles with never overlap the containers and instead do "...")
-* Blurred inventory background
-* Elements of NoPixel 3.5 design ideas interwoven
-
 # How to install qb-inventory (Latest QBCore Update)
 
 * Download `qb-inventory` from our GitHub
@@ -24,9 +8,8 @@
 * Make sure you have the latest update of [qb-weapons](https://github.com/qbcore-framework/qb-weapons)
 * Drag `qb-inventory` into your resources folder or any subfolder
 * Make sure that the folder is named `qb-inventory` and **not** `qb-inventory-main`
-* Replace all occurrences of `qb-inventory` with `qb-inventory`.<br>The example below uses Visual Studio Code to replace all instances.
 
-![image](https://github.com/Z3rio/qb-inventory/assets/54480523/00fa21a5-4be2-443f-aff2-4b3202b662dc)
+![image](https://media.discordapp.net/attachments/1226931621194895380/1226931621584961576/image.png?ex=6626901d&is=66141b1d&hm=299b04c7690e78a108922358aeef05b6a970d97ce82e22026e24573d5adf187f&=&format=webp&quality=lossless&width=959&height=448)
 
 ## Set up the decay system
 
