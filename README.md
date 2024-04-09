@@ -1,6 +1,9 @@
 # qb-inventory
 
+**JOIN MY DEVELOPMENT DISCORD: https://discord.gg/RGcBxXszST**
+
 # How to install qb-inventory (Latest QBCore Update)
+
 
 * Download `qb-inventory` from our GitHub
 * Make sure you have the latest update of [qb-core](https://github.com/qbcore-framework/qb-core)
